@@ -1,5 +1,5 @@
-values= [1,2,"anshuman",4] #list data type which can hold any date type
-
+values= [1,2,"anshuman",4]#list data type which can hold any date type
+names=["anshu","singh"]
 print(values[0])
 
 print(values[2])
