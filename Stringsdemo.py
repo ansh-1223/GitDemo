@@ -1,5 +1,6 @@
 str="Anshumansingh.com"
-str2="Ansh"
+str3="hello"
+str2="how are you"
 print(str[1])
 print(str[0:4]) #for substring
 str1="hello"
